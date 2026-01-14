@@ -25,11 +25,11 @@ Currently focused on:
 ### 📫 Let's Connect!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nourhan-sherif/" target="_blank">
+  <a href="www.linkedin.com/in/nourhan-sherif-1108052a3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:nourhan@example.com">
+  <a href="mailto:Norhansherif032@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
